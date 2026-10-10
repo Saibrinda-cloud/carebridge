@@ -274,7 +274,6 @@ elif page == "Add Medical Record":
                 title.strip() + " for " + patient_id
             )
             st.success("Demo record added to the timeline!")
-            st.rerun()
 
 # ---------------- ACCESS AND CONSENT ----------------
 elif page == "Access & Consent":
