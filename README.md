@@ -27,7 +27,7 @@ consent workflow for requesting and managing access.
 - GitHub
 - Streamlit Community Cloud
 
-##Open-Source Libraries and API Disclosure
+## Open-Source Libraries and API Disclosure
 Python: Programming language used to build the application.
 Streamlit: Open-source Python library used to create the web interface.
 GitHub: Used to store and manage the project's source code.
