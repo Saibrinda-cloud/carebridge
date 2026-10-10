@@ -28,11 +28,12 @@ consent workflow for requesting and managing access.
 - Streamlit Community Cloud
 
 ## Open-Source Libraries and API Disclosure
-Python: Programming language used to build the application.
-Streamlit: Open-source Python library used to create the web interface.
-GitHub: Used to store and manage the project's source code.
-Streamlit Community Cloud: Used to deploy the application.
-The dependency list is provided in requirements.txt. The application does not intentionally integrate with external healthcare APIs.
+- Python: Programming language used to build the application.
+- Streamlit: Open-source Python library used to create the web interface.
+- GitHub: Used to store and manage the project's source code.
+- Streamlit Community Cloud: Used to deploy the application.
+
+The dependency list is provided in "requirements.txt". The application does not intentionally integrate with external healthcare APIs.
 
 ## Run locally
 
