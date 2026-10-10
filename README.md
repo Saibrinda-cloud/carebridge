@@ -24,14 +24,27 @@ consent workflow for requesting and managing access.
 - Streamlit Community Cloud
 
 ## Run locally
+
 Requirements: Python 3.9 or newer.
-Clone this repository:
+
+1. Clone this repository:
+
+```bash
 git clone https://github.com/Saibrinda-cloud/carebridge.git
 cd carebridge
-Install the dependencies:
+```
+
+2. Install the dependencies:
+
+```bash
 pip install -r requirements.txt
-Start the application:
+```
+
+3. Start the application:
+
+```bash
 streamlit run app.py
+```
 
 ## Important limitations
 This is a hackathon prototype using fictional sample data.
